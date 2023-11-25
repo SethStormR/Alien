@@ -4,6 +4,8 @@
 
 Alien is an icon theme for Gnome, Deepin, XFCE and Budgie DE with over 1000 apps icons. The icon theme comes in different colors to choose from. Alien is based on "Black Sur" and "Papirus" icon theme.
 
+I have added the first baby step for KDE support.
+
 Screenshots
 --
 ![Screenshot from 2023-11-24 19-43-46](https://github.com/SethStormR/Alien/assets/60283532/a84d2360-721c-4784-9197-641201b548f3)
