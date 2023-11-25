@@ -16,3 +16,8 @@ Screenshots
 
 
 ![Screenshot from 2023-11-24 08-24-42](https://github.com/SethStormR/Alien/assets/60283532/0d3e6d60-eea6-4cd2-87b5-0a2f3a02dcd7)
+
+![1](https://github.com/SethStormR/Alien/assets/60283532/28d4b043-1879-4f17-9965-b266cd9179a4)
+
+
+![2](https://github.com/SethStormR/Alien/assets/60283532/6ebca998-59ec-41ac-ac3e-e4878d8eed7b)
