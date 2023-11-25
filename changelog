@@ -1,3 +1,20 @@
+Version 2.0
+-----------
+New color: Pink
+Added: misc. KDE icons - first step to KDE support
+Added: akregator, konsole, nemo, openvpn, orca
+Added: Firefox (flatpak), pavucontrol, rstudio,
+Added: kdeconnect, kleopatra, kmail, knotes,
+Added: kolourpaint, ktorrent, lynx, marble,
+Added: Bluemail, elisa, gwenviewer, ark, skanlite,
+Added: yakuake, alacritty, anki, dialect, btop,
+Added: easyeffect, peaZip, librewolf, 
+Added: Recent folder,
+Added; mime type icons for libre office
+Fixed: color issues regarding dark action and panel icons for Zorin OS
+Fixed: many misc. bug fixing
+Fixed: Open folder icon missing
+
 Version 1.1
 -----------
 Added: firefox nightly,
