@@ -8,7 +8,7 @@ I have added the first baby step for KDE support.
 
 Screenshots
 --
-![Screenshot from 2023-11-24 19-43-46](https://github.com/SethStormR/Alien/assets/60283532/a84d2360-721c-4784-9197-641201b548f3)
+![Screenshot from 2023-11-25 19-31-19](https://github.com/SethStormR/Alien/assets/60283532/1fe1ff19-7f2c-4a04-b4db-1665f317d76c)
 
 
 
